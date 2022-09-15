@@ -1,1 +1,1 @@
-# BoG
+# Bits of Good
