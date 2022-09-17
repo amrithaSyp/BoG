@@ -1,0 +1,18 @@
+body {
+    background-color:rgb(190, 235, 190);
+  }
+  h1 {
+    color:rgb(28, 53, 17);
+    text-align: center;
+
+  }
+  #h1pic {
+    border: 5px solid rgb(28, 53, 17);
+  }
+
+  .header {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      
+  }
